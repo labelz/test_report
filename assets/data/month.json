@@ -1,0 +1,27 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "list": [{
+            "customername": "Papawarin M.",
+            "customertier": "tttt",
+            "customerphone": "0900843048",
+            "totaltransaction": 2,
+            "totalamount": 111050,
+            "totalreward": 4442,
+            "remainingpoint": 4442
+        }],
+        "summarytier": [{
+            "total_members": 1,
+            "total_amount": 111050,
+            "tier_name": "tttt"
+        }],
+        "summary": {
+            "totaltransaction": 2,
+            "totalpoint": 4442,
+            "remainingpoint": 4442,
+            "lifetimevalue": 111050
+        },
+        "total": 1
+    }
+}

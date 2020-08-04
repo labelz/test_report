@@ -1,0 +1,15 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "list": [],
+        "summarytier": [],
+        "summary": {
+            "totaltransaction": 0,
+            "totalpoint": 0,
+            "remainingpoint": 0,
+            "lifetimevalue": 0
+        },
+        "total": 0
+    }
+}
